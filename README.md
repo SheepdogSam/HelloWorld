@@ -1,10 +1,11 @@
 # HelloWorld
 Hi There...
-# Pentester in Training
+Pentester in Training
+Cybersecurity 
 # Working with Hak5's Latest Products
 # Loving Life - Age of the Geek!
-subliminal message here
-# (((Watch Hak5 Now)))
+just a subliminal message here/n
+(((Watch Hak5 Now))) 
 
 I am loving the new Hak5 Release of the BASH Bunny right now... New to github, however, looks simple enough to git. 
 I have the Rubber Ducky and to know the Scripts can migrate to the BASH Bunny is awesome!
